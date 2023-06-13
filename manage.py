@@ -3,6 +3,8 @@
 import os
 import sys
 
+# pip install -r requirements.txt
+
 
 def main():
     """Run administrative tasks."""
